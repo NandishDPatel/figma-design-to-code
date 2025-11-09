@@ -214,7 +214,6 @@ def main():
                 element_count = count_elements_in_html(html_content)
 
                 # Success message
-                st.balloons()
                 st.markdown(
                     f"""
                 <div class="success-box">
