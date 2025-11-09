@@ -24,3 +24,4 @@ streamlit run app.py
 
 ### Future scope:
 - Testing to different kinds of figma prototypes
+- Deploying entirely on stream lit cloud but for this need to convert entire javascript code to python. (I tried one time but it entirely changed the layout and everything so just kept it as it is)
